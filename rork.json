@@ -1,0 +1,10 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "Rinseomatic 1000",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
